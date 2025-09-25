@@ -7,6 +7,7 @@ Integrantes do Grupo:
 - Matheus Oliveira Gouveia Campos
 
 =====================================================
+
 SOBRE O PROJETO:
 
 Este projeto busca simular um sistema de motivação para estudantes utilizando da gamificação.
