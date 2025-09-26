@@ -72,8 +72,6 @@ UC4 – Responder quest: aluno responde e recebe XP.
 
 UC5 – Atualizar ranking: sistema recalcula posições.
 
-UC6 – Visualizar desempenho: professor acessa relatório por aluno.
-
 . Diferenciais (para Psicologia da Educação)
 Reforço positivo → XP, itens e conquistas funcionam como motivadores.
 Autonomia do aluno → ele gerencia seu personagem e sente progresso.
